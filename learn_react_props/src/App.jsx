@@ -11,6 +11,12 @@
 //               passed from the parent component
 //               name: "Guest" 
 
+// i used the default props but it doesn't dispaly i asked around and i heard is some rendering issues so i think 
+// it's my machine that's causing this 
+// you can also try it on your pc and see how it works 
+
+// kindly leave a comment if yours work... :)
+
 
 import Student from './Student.jsx'
 
