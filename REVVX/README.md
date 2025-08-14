@@ -27,6 +27,7 @@ It features a clean, app-like UI inspired by platforms like Airbnb and Uber, wit
 
 ## 📂 Project Structure
 
+```plaintext
 src/
 ├── App.jsx                 # Root application component
 │
@@ -54,6 +55,7 @@ src/
     └── globals.css
 
 ---
+```
 
 ## 🚀 Getting Started
 
